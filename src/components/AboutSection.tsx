@@ -36,7 +36,7 @@ export const AboutSection = () => {
                 BI solutions using Power BI, Azure services, and Microsoft Fabric.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                With over 3 years of experience in the data domain, I've helped organizations streamline 
+                With over 4 years of experience in the data domain, I've helped organizations streamline 
                 their reporting processes, implement data warehousing solutions, and develop automated 
                 data pipelines. My work has resulted in significant time savings and improved 
                 decision-making capabilities for cross-functional teams.
